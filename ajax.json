@@ -1,5 +1,7 @@
 [
+  {
   "nome": "Lok",
   "idade": 17,
   "ativo": true,
-],
+  },
+]
