@@ -2,6 +2,11 @@
   {
   "nome": "Lok",
   "idade": 17,
-  "ativo": true,
+  "ativo": true
   },
+  {
+  "nome": "Minos",
+  "idade": 19,
+  "ativo": true
+  }
 ]
